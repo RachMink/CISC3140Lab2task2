@@ -1,5 +1,5 @@
-# CISC3140Lab2task2
-CSV data analysis
+# CSV data analysis
+using zsh shellscript 
 
 Since I have the csv file already downloaded on my computer I do not need to use cURL or wget to obtain it. </br>
 The file on my computer is called `spotify-us-daily.csv`
